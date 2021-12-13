@@ -63,7 +63,7 @@ Jupyter Notebook is a free, open-source and interactive web application allowing
 
 ## Opening a Jupyter Notebook
 
-Fot the purpose of reproducibility of all the analyzes from this repository, we advise to run Jupyter Notebooks from within fingernat environment.
+For the purpose of reproducibility of all the analyzes from this repository, we advise to run Jupyter Notebooks from within fingernat environment.
 
 e.g. using conda fingernat environment:
 
