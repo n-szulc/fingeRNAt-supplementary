@@ -1,0 +1,3 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DS7	1	1	Lipophilic	3	-16.493	8.929	-37.203	A	66	A	C5	-15.677	7.932	-40.74	3.7643
+1	3DS7	1	1	Lipophilic	3	-16.493	8.929	-37.203	A	66	A	C8	-17.484	6.829	-40.405	3.9554

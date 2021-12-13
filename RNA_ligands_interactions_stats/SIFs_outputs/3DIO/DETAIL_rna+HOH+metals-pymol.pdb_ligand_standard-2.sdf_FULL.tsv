@@ -1,0 +1,3 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DIO	1	1	Lipophilic	3	21.969	-5.089	28.227	C	7	X	C4'	22.168	-1.288	27.474	3.88
+1	3DIO	1	1	Lipophilic	2	23.854	-8.34	25.343	C	170	X	C2'	27.571	-9.694	24.876	3.9834

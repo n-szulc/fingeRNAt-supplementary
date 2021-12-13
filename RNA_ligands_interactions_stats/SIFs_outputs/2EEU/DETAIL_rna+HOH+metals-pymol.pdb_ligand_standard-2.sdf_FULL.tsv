@@ -1,0 +1,7 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	2EEU	1	1	Water-mediated	2	36.208	20.471	10.365	HOH	147	A	O	36.337	21.627	7.747	2.86477
+1	HOH	0	1	Water-mediated	147:A	36.337	21.627	7.747	G	32	A	O6	36.822	23.786	10.127	3.2498
+2	2EEU	1	1	Lipophilic	3	36.052	18.219	9.714	A	66	A	C5	39.7	17.498	8.446	3.9288
+3	2EEU	1	1	Water-mediated	2	36.208	20.471	10.365	HOH	147	A	O	36.337	21.627	7.747	2.86477
+4	HOH	0	1	Water-mediated	147:A	36.337	21.627	7.747	U	67	A	OP2	34.589	20.127	5.931	2.9332
+5	2EEU	1	1	Pi_Anion	4	35.951	18.871	12.036	A	33	A	N1,C2,N3,C4,C5,C6	39.3085	19.78617	13.6065	3.81796

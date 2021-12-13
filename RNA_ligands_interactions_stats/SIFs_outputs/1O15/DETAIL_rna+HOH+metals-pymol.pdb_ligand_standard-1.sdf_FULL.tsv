@@ -1,0 +1,9 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	1O15	1	1	HB	11	8.041	4.164	35.535	C	8	A	 N4 	5.247	4.842	37.9	3.72281
+1	1O15	1	1	HB	11	8.041	4.164	35.535	C	8	A	 N4 	5.247	4.842	37.9	3.72281
+2	1O15	1	1	Lipophilic	8	8.813	3.403	36.401	C	8	A	C4	5.646	3.793	38.607	3.8792
+3	1O15	1	1	HB	13	9.311	5.593	36.679	U	24	A	O4	11.719	8.21	37.474	3.64406
+4	1O15	1	1	HB	13	9.311	5.593	36.679	G	26	A	O6	6.375	7.341	38.274	3.77089
+5	1O15	1	1	Lipophilic	5	11.265	4.752	38.76	G	26	A	C2	8.59	6.703	40.976	3.9841
+6	1O15	1	1	Pi_Stacking	2,9,8,7,6,3	9.6505	2.9615	37.30167	A	28	A	N1,C2,N3,C4,C5,C6	13.22067	3.26417	34.76	4.39293
+7	1O15	1	1	Pi_Stacking	2,9,8,7,6,3	9.6505	2.9615	37.30167	C	8	A	N1,C2,N3,C4,C5,C6	6.06117	2.7045	39.30417	4.11817

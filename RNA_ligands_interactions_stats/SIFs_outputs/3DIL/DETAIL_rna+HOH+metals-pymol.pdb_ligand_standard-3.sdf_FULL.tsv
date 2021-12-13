@@ -1,0 +1,6 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DIL	1	1	Lipophilic	2	36.925	32.059	28.512	C	13	A	C2	34.031	30.348	26.986	3.6921
+1	3DIL	1	1	Lipophilic	2	36.925	32.059	28.512	C	13	A	C4	35.259	31.503	25.36	3.6083
+2	3DIL	1	1	Lipophilic	2	36.925	32.059	28.512	C	13	A	C5	36.156	30.4	25.19	3.792
+3	3DIL	1	1	Lipophilic	1	37.571	30.777	29.025	C	13	A	C6	35.941	29.309	25.94	3.7854
+4	3DIL	1	1	Lipophilic	2	36.925	32.059	28.512	C	13	A	C6	35.941	29.309	25.94	3.8918

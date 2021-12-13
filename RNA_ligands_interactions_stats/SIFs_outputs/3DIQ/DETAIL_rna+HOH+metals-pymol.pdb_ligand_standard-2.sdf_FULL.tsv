@@ -1,0 +1,2 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DIQ	1	1	Lipophilic	3	22.085	-5.344	27.552	C	7	A	C4'	22.06	-1.435	27.389	3.9125

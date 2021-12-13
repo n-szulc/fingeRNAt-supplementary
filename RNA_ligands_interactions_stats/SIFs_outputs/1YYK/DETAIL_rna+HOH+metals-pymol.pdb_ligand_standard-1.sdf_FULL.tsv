@@ -1,0 +1,7 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	1YYK	1	1	CA	1	56.055	24.904	44.312	G	2	E	OP2	52.383	27.202	41.931	4.94303
+1	1YYK	1	1	CA	1	56.055	24.904	44.312	C	3	E	OP2	56.153	25.167	39.93	4.39098
+2	1YYK	1	1	HB	6	57.78	22.415	46.452	G	4	E	O6	59.627	25.265	47.545	3.56771
+3	1YYK	1	1	HB	6	57.78	22.415	46.452	A	5	E	N6	58.034	23.014	49.345	2.96526
+4	1YYK	1	1	HB	6	57.78	22.415	46.452	A	5	E	N7	60.26	21.993	47.477	2.71645
+5	1YYK	1	1	Pi_Cation	1	56.055	24.904	44.312	G	2	E	C4,C5,N7,C8,N9	56.9376	30.281	41.964	5.93331

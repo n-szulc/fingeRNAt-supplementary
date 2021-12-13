@@ -1,0 +1,2 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DIG	1	1	HB	3	38.066	32.286	28.429	C	13	X	N4	35.565	32.367	25.703	3.70036

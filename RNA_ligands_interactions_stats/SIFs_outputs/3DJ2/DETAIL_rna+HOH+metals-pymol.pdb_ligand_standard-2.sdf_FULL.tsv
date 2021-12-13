@@ -1,0 +1,5 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3DJ2	1	1	HB	3	36.586	32.776	29.167	C	13	A	N3	34.239	31.141	26.591	3.84934
+1	3DJ2	1	1	Lipophilic	2	37.493	31.823	28.597	C	13	A	C4	35.202	31.186	25.665	3.7751
+2	3DJ2	1	1	Lipophilic	2	37.493	31.823	28.597	C	13	A	C5	36.099	30.09	25.456	3.8487
+3	3DJ2	1	1	Lipophilic	2	37.493	31.823	28.597	C	13	A	C6	35.944	29.004	26.227	3.9954

@@ -1,0 +1,5 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	3SKZ	1	1	Lipophilic	5	16.318	1.493	-61.518	C	57	A	C2'	15.846	-1.517	-59.59	3.6056
+1	3SKZ	1	1	Lipophilic	5	16.318	1.493	-61.518	C	58	A	C5'	16.737	1.146	-57.656	3.9001
+2	3SKZ	1	1	Lipophilic	3	16.418	3.006	-61.397	C	58	A	C4'	15.609	2.124	-57.81	3.7814
+3	3SKZ	1	1	Lipophilic	5	16.318	1.493	-61.518	C	58	A	C4'	15.609	2.124	-57.81	3.8275

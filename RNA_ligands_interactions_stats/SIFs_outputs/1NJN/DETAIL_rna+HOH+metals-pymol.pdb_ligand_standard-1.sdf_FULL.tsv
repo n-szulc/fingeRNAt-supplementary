@@ -1,0 +1,5 @@
+	Ligand_name	Ligand_pose	Ligand_occurrence_in_sdf	Interaction	Ligand_Atom	Ligand_X	Ligand_Y	Ligand_Z	Receptor_Residue_Name	Receptor_Number	Receptor_Chain	Receptor_Atom	Receptor_X	Receptor_Y	Receptor_Z	Distance
+0	1NJN	1	1	HB	17	68.685	133.316	100.866	G	2232	0	O2'	65.603	133.445	98.568	3.84658
+1	1NJN	1	1	Lipophilic	18	65.982	131.654	102.088	G	2232	0	C1'	64.696	131.221	98.392	3.9372
+2	1NJN	1	1	Pi_Stacking	1,8,7,6,4,3	71.29667	126.95517	105.18117	A	2581	0	C4,C5,N7,C8,N9	72.2622	129.3574	109.267	4.83704
+3	1NJN	1	1	Pi_Stacking	1,8,7,6,4,3	71.29667	126.95517	105.18117	A	2581	0	N1,C2,N3,C4,C5,C6	74.11467	128.45367	109.55933	5.41802
