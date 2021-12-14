@@ -19,10 +19,10 @@ Repository with data and complete pipelines to reproduce results from *fingeRNAt
 This repository holds data and pipelines to perform the following analyses:
 
 1. Analysis of interactions statistics in RNA-Ligand complexes - directory [RNA_ligands_interactions_stats](RNA_ligands_interactions_stats/README.md).
-2. Analysis of experimentally determined complexes of HIV-1 TAR with different ligands - directory [HIV_TAR_interactions](HIV_TAR_interactions/README.md).
-3. Analysis of interactions of HIV-1 TAR structure in complexes with it's active/inactive ligands - directory [Active_vs_inactive_ligands](Active_vs_inactive_ligands/README.md).
-4. Analysis of relationship between different distance metrics and RMSD for DNA - ligand's experimental pose vs. DNA - ligand's redocked pose - directory [DNA_redock](DNA_redock/README.md).
-5. [Auxiliary jupyter notebook](SMARTS_checker/SMARTS-playground.ipynb) for testing SMARTS patterns used in yaml plugin.
+2. Analysis of RNA Puzzle 23 data [RNA_Puzzle_23](RNA_Puzzle_23/README.md).
+3. Analysis of interactions of HIV-1 TAR structure in complexes with it's active/inactive ligands - directory [HIV-1_TAR_active_vs_inactive_ligands](HIV-1_TAR_active_vs_inactive_ligands/README.md).
+4. Test of fingeRNAt interactions detection in various combinations of receptors and ligands: - directory [fingeRNAt_test](fingeRNAt_test/README.md).
+5. Auxiliary jupyter notebook [SMARTS_checker](SMARTS_checker/SMARTS-playground.ipynb) for testing SMARTS patterns used in yaml plugin.
 
 ![](README_pics/README-895b0f28.png)
 
