@@ -6,7 +6,13 @@ Repository with data and complete pipelines to reproduce results from *fingeRNAt
 <!-- TOC START min:1 max:6 link:true asterisk:false update:true -->
 - [Repository contents](#repository-contents)
 - [Jupyter Notebooks pipelines](#jupyter-notebooks-pipelines)
-- [Quick intro to Jupyter Notebooks](quick-intro-to-jupyter-notebooks)
+- [Quick intro to Jupyter Notebooks](#quick-intro-to-jupyter-notebooks)
+  - [Opening a Jupyter Notebook](#opening-a-jupyter-notebook)
+  - [Running a cell](#running-a-cell)
+  - [Common troubleshooting](#common-troubleshooting)
+  - [Saving Jupyter Notebook](#saving-jupyter-notebook)
+  - [Closing Jupyter Notebook](#closing-jupyter-notebook)
+  - [Further reading](#further-reading)
 <!-- TOC END -->
 
 
@@ -25,6 +31,8 @@ This repository holds data and pipelines to perform the following analyses:
 5. Auxiliary jupyter notebook [SMARTS_checker](SMARTS_checker/SMARTS-playground.ipynb) for testing SMARTS patterns used in yaml plugin.
 
 ![](README_pics/README-895b0f28.png)
+
+6. Fingerprint calculation times: [plot generation and raw data](exec_time/).
 
 # Jupyter Notebooks pipelines
 
