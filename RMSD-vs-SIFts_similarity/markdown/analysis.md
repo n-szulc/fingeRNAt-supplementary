@@ -1,6 +1,7 @@
 Relationship between RMSD and fingerprint similarity
 =============
 
+In the plots, the red point represents the reference (native) structure.
 
 <!-- TOC START min:1 max:1 link:true asterisk:false update:true -->
 - [1AJU](#1aju)
