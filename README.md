@@ -33,6 +33,7 @@ This repository holds data and pipelines to perform the following analyses:
 ![](README_pics/README-895b0f28.png)
 
 6. Fingerprint calculation times: [plot generation and raw data](exec_time/).
+7. [Relationship of RMSD and SIFts similarity for docking data for set of 144 RNA-ligand complexes](RMSD-vs-SIFts_similarity/README.md)
 
 # Jupyter Notebooks pipelines
 
