@@ -19,6 +19,7 @@ The data structure is as follows:
 ```
 .
 ├── SIFs_outputs
+├── Padroni
 ├── results
 ├── Pipeline.ipynb
 └── README.md
@@ -45,6 +46,10 @@ e.g.
 ```
 
 Apart from directories with SIFs for each RNA structure as can be seen above, `SIFs_outputs` contains `SUMMARY` directory, with all concatenated results for all the `DETAIL_*` files and two accompanying bash scripts.
+
+# Padroni
+
+Interactions data generated for the Padroni et al. data set.
 
 # Pipeline
 
