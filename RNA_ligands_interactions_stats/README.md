@@ -22,6 +22,7 @@ The data structure is as follows:
 ├── Padroni
 ├── results
 ├── Pipeline.ipynb
+├── all-ligands-clusters-new.csv
 └── README.md
 ```
 
@@ -50,6 +51,10 @@ Apart from directories with SIFs for each RNA structure as can be seen above, `S
 # Padroni
 
 Interactions data generated for the Padroni et al. data set.
+
+# `all-ligands-clusters-new.csv`
+
+Clusters of ligands. Clustering of chemical structures was performed in KNIME environment, using RDKit fingerprint with k-medoids algorithm (10 clusters), as described in [AnnapuRNA]. Clusters containing the same chemical classes of molecules (i.e., clusters containing  amino acids, amino sugars, and other molecules) were merged together into a single groups (named ”amino acids”, “amino sugars”, and “other”, respectively).
 
 # Pipeline
 
