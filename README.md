@@ -1,7 +1,7 @@
 fingeRNAt - additional data and pipelines
 =========
 
-Repository with data and complete pipelines to reproduce results from *fingeRNAt - a software tool for analysis of nucleic acid-ligand complexes.*
+Repository with data and complete pipelines to reproduce results from *fingeRNAt - a software tool for analysis of nucleic acid-ligand complexes.* doi: [10.1371/journal.pcbi.1009783](https://doi.org/10.1371/journal.pcbi.1009783)
 
 <!-- TOC START min:1 max:6 link:true asterisk:false update:true -->
 - [Repository contents](#repository-contents)
